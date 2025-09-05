@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynaperf-website/static/css/main.bd2b9b72.css",
+    "main.js": "/dynaperf-website/static/js/main.6937f8df.js",
+    "static/js/453.e2f46bc5.chunk.js": "/dynaperf-website/static/js/453.e2f46bc5.chunk.js",
+    "index.html": "/dynaperf-website/index.html",
+    "main.bd2b9b72.css.map": "/dynaperf-website/static/css/main.bd2b9b72.css.map",
+    "main.6937f8df.js.map": "/dynaperf-website/static/js/main.6937f8df.js.map",
+    "453.e2f46bc5.chunk.js.map": "/dynaperf-website/static/js/453.e2f46bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2b9b72.css",
+    "static/js/main.6937f8df.js"
+  ]
+}
